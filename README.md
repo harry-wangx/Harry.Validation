@@ -1,1 +1,1 @@
-# Harry.Verification-
+一个图形验证的库,暂时只实现了简单功能

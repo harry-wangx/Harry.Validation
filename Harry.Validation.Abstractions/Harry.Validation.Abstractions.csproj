@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>Harry.Validation</RootNamespace>
-    <Version>1.0.0-alpha1001</Version>
+    <Version>1.0.0-alpha1002</Version>
   </PropertyGroup>
 
   <ItemGroup>

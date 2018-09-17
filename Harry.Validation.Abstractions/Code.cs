@@ -13,9 +13,9 @@ namespace Harry.Validation
             this.DisplayText = displayText;
             this.Value = value;
         }
-        public string DisplayText { get; protected set; }
+        public string DisplayText { get; set; }
 
-        public string Value { get; protected set; }
+        public string Value { get; set; }
 
         public virtual bool Validate(string input)
         {
